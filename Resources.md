@@ -32,3 +32,21 @@ https://dribbble.com/
 
 
 https://www.behance.net/
+
+
+https://c9.io/rcsuax
+
+
+http://aws.amazon.com/
+
+
+http://aws.amazon.com/
+
+
+https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ
+
+
+https://www.reddit.com/r/webdev/
+
+
+https://www.reddit.com/r/web_design/

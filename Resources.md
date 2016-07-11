@@ -50,3 +50,9 @@ https://www.reddit.com/r/webdev/
 
 
 https://www.reddit.com/r/web_design/
+
+
+https://www.youtube.com/user/thenewboston
+
+
+https://www.youtube.com/user/phpacademy

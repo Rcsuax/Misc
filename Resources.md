@@ -22,9 +22,6 @@ https://www.codeschool.com/
 https://www.codecademy.com/
 
 
-https://www.codecademy.com/
-
-
 http://codepen.io/
 
 

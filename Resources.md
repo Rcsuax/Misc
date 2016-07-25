@@ -65,3 +65,6 @@ http://bleech.io/
 
 
 https://teamtreehouse.com/home
+
+
+http://watchandcode.com/courses/practical-javascript/

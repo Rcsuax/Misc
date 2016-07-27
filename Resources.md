@@ -34,9 +34,6 @@ https://www.behance.net/
 https://c9.io/rcsuax
 
 
-http://aws.amazon.com/
-
-
 http://nodeschool.io/index.html
 
 

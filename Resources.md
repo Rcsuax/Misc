@@ -74,3 +74,6 @@ https://scotch.io/
 
 
 https://www.dart-creations.com/web-design/opinion/web-design-blogs.html
+
+
+http://jgthms.com/web-design-in-4-minutes/

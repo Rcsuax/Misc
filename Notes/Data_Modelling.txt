@@ -1,0 +1,69 @@
+Q1 Explain Data Modelling.
+
+Data modelling is used to define and analyze data requirements for the business logic in an application. Where you identify entity types and assign data attributes to entitys.
+
+Q2 Describe entities and attributes with examples.
+
+An entity is a unit of data(e.g an object) that can be collected and has stated relationships with other entities.
+An attribute is a property of an entity which describe the entity. The entity can have multiple attributes.
+Example. We can collect data about a man so the man is an entity, the man has name,weight,height and age, those are his attributes which store the values which describe the entity (the man).
+
+Q3 What are the different types of relationships
+There are 4 types of relationships.
+- One to One: One entity is associated with another entity. For Ex: Each employee is associated with one department
+- One to Many: One entity is associated with many other entities. For Ex: A company is associated with all working employees in one branch/office/country.
+- Many to One: Many entities are associated with only one entity. For Ex: Many employees are associated with one project.
+- Many to Many: Many entities are associated with many other entities. For Ex: In a company many employees are associated with multiple projects(completed/existing), and at the same time, projects are associated with multiple employees.
+
+Q4 Describe all the three forms of Normalisation?
+
+Database Normalisation is a technique of organizing the data in the database. Normalization is a systematic approach of decomposing tables to eliminate data redundancy and undesirable anamolies. For a database to be considered normalised it needs to have meet the criteria before it. i.e 3NF needs to have the requirements of 2NF and 1NF met.
+
+First normal form (1NF). 
+-Each column corresponds to an attribute of the object represented by the entire table.
+-Each row represents a unique instance of that attribute and are unique from other rows.
+-All entries in any column must be of the same kind
+
+Second normal form (2NF).
+-Remove data that applys to multiple rows of a table and place them in separate tables.
+-Create relationships between these new tables and their predecessors through the use of foreign keys.
+
+Third Normal Form (3NF)
+-All attributes must be directly dependant on the primary key
+
+Q5 When should you consider denormalization?
+
+Denomalization is used when encountering performance issues.For example an database that is not normalized will be easier to query since the all the data is stored in a single row in a single table whilst if you are querying a normailised database you would need to read data from a row in table 1, related data from all the rows from table 2 for that item and data from the corresponding rows in the table 3 for each linked item. Which would be much slower than a denormalized database.
+
+Q6 In what situation would you use an artificial primary key?
+
+You would use a surrogate (or artificial) when you cannot create a natural primary key from business data as the key name could change.
+
+Q7 Explain Entity Relationship Diagram (ERD).
+
+An entity relationship model,is a graphical representation of entities and their relationships to each other.
+
+Q8 What is a surrogate key? Explain with an example.
+
+A surrogate key is a artificial primary key created in place of a natural primary key and is indepenant from change.
+For example, If you are told to create a database of airports you could not use AIRPORT_NAME as a primary key as it is subject to change, therefore you would create a new column and set it as your "Surrogate" primary key and name it as AIRPORT_ID.
+
+Q9 Explain triggers with an example.
+
+A trigger is a set of SQL statements which completes an action when a specfic event occurs(INSERT,DELETE,UPDATE etc).A trigger consists of an event against a associated table and an action.
+
+For example:
+
+CREATE TABLE Source (ID int IDENTITY, Description varchar(10))
+go
+CREATE TRIGGER tr_Source_INSERT
+ON Source
+FOR INSERT
+AS
+PRINT GETDATE()
+go
+INSERT Source (Description) VALUES ('Test 1')
+
+-- Results --
+
+Sept 12 2016 9:56AM

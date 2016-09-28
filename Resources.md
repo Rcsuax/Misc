@@ -72,6 +72,8 @@ http://reactjsprogram.teachable.com/courses/reactjsfundamentals
 
 https://scotch.io/
 
+https://learncodethehardway.org/
+
 
 https://www.dart-creations.com/web-design/opinion/web-design-blogs.html
 

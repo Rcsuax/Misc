@@ -25,6 +25,8 @@ https://scotch.io/
 
 http://buildwithreact.com/
 
+https://egghead.io/lessons/react-building-a-react-js-app-up-and-running-with-react-and-webpack
+
 ###News
 
 https://medium.com/tag/tech/latest
@@ -41,6 +43,8 @@ http://www.devopschallenge.co/
 https://github.com/busbud
 
 https://github.com/coveo/
+
+https://cryptopals.com/
 
 ###Tools
 http://codepen.io/
@@ -68,6 +72,8 @@ https://medium.freecodecamp.com/25-free-resources-for-new-javascript-developers-
 http://jgthms.com/web-design-in-4-minutes/
 
 https://ishadeed.com/article/css-writing-mode/
+
+https://tylermcginnis.com/react-js-tutorial-pt-1-a-comprehensive-guide-to-building-apps-with-react-js-8ce321b125ba#.xv8y5ri8s
 
 ###Books
 https://learncodethehardway.org/

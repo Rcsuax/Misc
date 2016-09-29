@@ -74,6 +74,9 @@ https://learncodethehardway.org/
 
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
+https://github.com/getify/You-Dont-Know-JS
+
+http://eloquentjavascript.net/
 
 ###Misc
 https://formspree.io/

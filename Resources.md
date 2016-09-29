@@ -96,3 +96,13 @@ https://github.com/vhf/free-programming-books/blob/master/free-programming-books
 https://github.com/busbud
 
 https://github.com/coveo/
+
+https://medium.com/tag/tech/latest
+
+https://news.ycombinator.com/
+
+http://buildwithreact.com/
+
+https://medium.freecodecamp.com/25-free-resources-for-new-javascript-developers-11342cf1f4df#.mb3kjm6n8
+
+https://repl.it/

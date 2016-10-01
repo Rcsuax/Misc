@@ -79,6 +79,10 @@ https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.ordv
 
 http://webpro.github.io/programming-principles/
 
+https://blogs.balsamiq.com/ux/2013/02/06/using-mockups-in-your-agile-user-stories/
+
+http://www.romanpichler.com/blog/agile-user-interface-design/
+
 ###Books
 https://learncodethehardway.org/
 

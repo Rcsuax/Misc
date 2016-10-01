@@ -77,6 +77,8 @@ https://tylermcginnis.com/react-js-tutorial-pt-1-a-comprehensive-guide-to-buildi
 
 https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.ordvtjzgx
 
+http://webpro.github.io/programming-principles/
+
 ###Books
 https://learncodethehardway.org/
 

@@ -92,6 +92,8 @@ https://github.com/getify/You-Dont-Know-JS
 
 http://eloquentjavascript.net/
 
+http://greenteapress.com/wp/think-java/
+
 ###Misc
 https://formspree.io/
 

@@ -3,7 +3,7 @@ https://www.devopslibrary.com/
 
 http://www.newtech.academy/
 
-https://www.freecodecamp.com/rcsuax
+https://www.freecodecamp.com/
 
 https://www.coursera.org/
 

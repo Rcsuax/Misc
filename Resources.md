@@ -27,6 +27,8 @@ http://buildwithreact.com/
 
 https://egghead.io/lessons/react-building-a-react-js-app-up-and-running-with-react-and-webpack
 
+https://www.edx.org/
+
 ###News
 
 https://medium.com/tag/tech/latest

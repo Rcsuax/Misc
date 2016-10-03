@@ -87,6 +87,8 @@ http://www.romanpichler.com/blog/agile-user-interface-design/
 
 http://artofunittesting.com/definition-of-a-unit-test/
 
+http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
+
 ###Books
 https://learncodethehardway.org/
 

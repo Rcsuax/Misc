@@ -89,6 +89,8 @@ http://artofunittesting.com/definition-of-a-unit-test/
 
 http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
 
+http://www.skilledup.com/articles/learn-computer-science-online-free
+
 ###Books
 https://learncodethehardway.org/
 

@@ -91,6 +91,8 @@ http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
 
 http://www.skilledup.com/articles/learn-computer-science-online-free
 
+https://www.youtube.com/watch?v=qf6abZeAJh4
+
 ###Books
 https://learncodethehardway.org/
 

@@ -95,6 +95,8 @@ https://www.youtube.com/watch?v=qf6abZeAJh4
 
 https://www.youtube.com/watch?v=qf6abZeAJh4
 
+http://tidyjava.com/
+
 ###Books
 https://learncodethehardway.org/
 

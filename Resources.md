@@ -93,6 +93,8 @@ http://www.skilledup.com/articles/learn-computer-science-online-free
 
 https://www.youtube.com/watch?v=qf6abZeAJh4
 
+https://www.youtube.com/watch?v=qf6abZeAJh4
+
 ###Books
 https://learncodethehardway.org/
 

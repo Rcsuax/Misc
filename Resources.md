@@ -99,6 +99,8 @@ https://www.youtube.com/watch?v=qf6abZeAJh4
 
 http://tidyjava.com/
 
+http://prog21.dadgum.com/archives.html
+
 ###Books
 https://learncodethehardway.org/
 

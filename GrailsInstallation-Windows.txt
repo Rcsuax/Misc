@@ -1,0 +1,17 @@
+Installing Grails on windows
+
+Download the latest distrubtion zip from grails.org and extract it to $Directory
+
+Open Enviroment Variables
+
+For user variables
+GRAILS_HOME = C:\Program Files (x86)\grails-3.2.2\grails-3.2.2
+JAVA_HOME = C:\Program Files (x86)\Java\jdk1.8.0_101
+
+For System variables in the path variable add:
+C:\Program Files (x86)\grails-3.2.2\grails-3.2.2\bin
+C:\Program Files (x86)\Java\jdk1.8.0_101\bin
+
+test with using:
+java -version
+grails -version

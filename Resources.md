@@ -101,7 +101,10 @@ http://tidyjava.com/
 
 http://prog21.dadgum.com/archives.html
 
+http://startupclass.samaltman.com/
+
 ###Books
+
 https://learncodethehardway.org/
 
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
@@ -111,6 +114,10 @@ https://github.com/getify/You-Dont-Know-JS
 http://eloquentjavascript.net/
 
 http://greenteapress.com/wp/think-java/
+
+https://www.akkadia.org/drepper/cpumemory.pdf
+
+https://www.manning.com/books/functional-programming-in-scala
 
 ###Misc
 https://formspree.io/

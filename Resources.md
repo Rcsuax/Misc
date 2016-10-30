@@ -103,6 +103,8 @@ http://prog21.dadgum.com/archives.html
 
 http://startupclass.samaltman.com/
 
+https://www.reddit.com/r/gamedev/comments/5a2fuq/what_gaps_should_i_fill_after_completing_a_cs/
+
 ###Books
 
 https://learncodethehardway.org/

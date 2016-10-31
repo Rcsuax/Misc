@@ -105,6 +105,8 @@ http://startupclass.samaltman.com/
 
 https://www.reddit.com/r/gamedev/comments/5a2fuq/what_gaps_should_i_fill_after_completing_a_cs/
 
+https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.72fw7krof
+
 ###Books
 
 https://learncodethehardway.org/

@@ -107,6 +107,8 @@ https://www.reddit.com/r/gamedev/comments/5a2fuq/what_gaps_should_i_fill_after_c
 
 https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.72fw7krof
 
+https://www.reddit.com/r/learnprogramming/comments/5bs1gn/what_makes_code_production_grade/
+
 ###Books
 
 https://learncodethehardway.org/
@@ -122,6 +124,10 @@ http://greenteapress.com/wp/think-java/
 https://www.akkadia.org/drepper/cpumemory.pdf
 
 https://www.manning.com/books/functional-programming-in-scala
+
+https://leanpub.com/javascriptallongesix/read
+
+https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
 
 ###Misc
 https://formspree.io/

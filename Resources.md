@@ -31,6 +31,8 @@ https://www.edx.org/
 
 https://realm.io/news/intro-to-rxjava/
 
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9
+
 ###News
 
 https://medium.com/tag/tech/latest

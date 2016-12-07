@@ -111,6 +111,8 @@ https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.72fw7kr
 
 https://www.reddit.com/r/learnprogramming/comments/5bs1gn/what_makes_code_production_grade/
 
+https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
+
 ###Books
 
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md

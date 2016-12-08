@@ -113,6 +113,10 @@ https://www.reddit.com/r/learnprogramming/comments/5bs1gn/what_makes_code_produc
 
 https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
 
+https://www.youtube.com/watch?v=mDotS5BDqRM
+
+http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/
+
 ###Books
 
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md

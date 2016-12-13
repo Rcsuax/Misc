@@ -3,25 +3,33 @@
 http://www.programwitherik.com/understanding-the-babel-compiler-2016/
 
 ###package.json
+```javascript
 {
   "name": "es",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "build": "babel src -d lib",
-    "repl": "./node_modules/.bin/babel-node",
+    "build": "babel src -d out",
+    "clean": "rm out/* -r",
+    "deep-clean": "rm node_modules -r && npm install",
+    "dev": "nodemon ./out/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "rcsuax",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.18.0",
-    "babel-preset-es2015": "^6.18.0"
+    "babel-preset-es2015": "^6.18.0",
+    "nodemon": "^1.11.0"
   }
 }
+```
+
 
 ###.babelrc
+```javascript
 {
   "presets": ["es2015"]
 }
+```

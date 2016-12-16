@@ -10,10 +10,10 @@ http://www.programwitherik.com/understanding-the-babel-compiler-2016/
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "babel src -d out",
-    "clean": "rm out/* -r",
+    "build": "babel src -d build",
+    "clean": "rm build/* -r",
     "deep-clean": "rm node_modules -r && npm install",
-    "dev": "nodemon ./out/app.js",
+    "dev": "nodemon ./build/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

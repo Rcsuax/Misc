@@ -8,24 +8,24 @@ gem install jekyll
 
 jekyll new Project_Name
 
-	cd Project_Name
+cd Project_Name
 	
 test jekyll is installed correctly with:
 
-jekyll serve --host $IP --port $PORT --baseurl ''
+	jekyll serve --host $IP --port $PORT --baseurl ''
 	
 	
 create empty git repo
 
-git config --global user.name "Your Name Here"
-git config --global user.email "your_email@example.com"
+	git config --global user.name "Your Name Here"
+	git config --global user.email "your_email@example.com"
 
 git init
 
-git remote add origin git@github.com:yourname/yourrepository.git
+	git remote add origin git@github.com:yourname/yourrepository.git
 
 test remote
-	git remote -v
+git remote -v
 	
 git add .
 

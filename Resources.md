@@ -1,4 +1,7 @@
 ###Learning Resources
+
+https://github.com/secretescapes/grails-petclinic
+
 https://www.devopslibrary.com/
 
 http://www.newtech.academy/
